@@ -5,3 +5,6 @@ https://www.youtube.com/watch?v=X4Puu0BS3GE
 
 push to azure cubernate. 
 https://www.youtube.com/watch?v=HMIxLaisKiI
+
+//kubetes
+https://www.youtube.com/watch?v=dPJKGnEXQIM
