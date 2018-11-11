@@ -8,3 +8,9 @@ https://www.youtube.com/watch?v=HMIxLaisKiI
 
 //kubetes
 https://www.youtube.com/watch?v=dPJKGnEXQIM
+
+//ceate CI-CD pipeline on Azure kubernetes Serive (AKS) with VSTS
+https://dgkanatsios.com/2017/05/29/creating-a-cicd-pipeline-on-azure-container-services-with-kubernetes-and-visual-studio-team-services/
+
+//tutorial Kubernetes 
+https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-cluster
